@@ -1,4 +1,4 @@
-package net.must.restdemo;
+package net.must;
 
 import java.util.Optional;
 

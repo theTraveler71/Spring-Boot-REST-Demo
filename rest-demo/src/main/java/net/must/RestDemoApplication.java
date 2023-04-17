@@ -1,13 +1,15 @@
-package net.must.restdemo;
+package net.must;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestDemoApplication {
+public class RestDemoApplication
+{
 
-	public static void main(String[] args) {
-		SpringApplication.run(RestDemoApplication.class, args);
-	}
+    public static void main(String[] args)
+    {
+        SpringApplication.run(RestDemoApplication.class, args);
+    }
 
 }
